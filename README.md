@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jindalvishal09
-- 👀 I’m interested in Cloud and related technologies with Machine Learning and IOT
-- 🌱 I’m currently learning AWS
+- 👋 Hi, I’m Vishal Jindal
+- 👀 I’m interested in Cloud based Devops and related technologies with Machine Learning and IOT
+- 🌱 I’m currently working on a course for Devops
 - 💞️ I’m looking to collaborate on Cloud Technology with AI/ML
 - 📫 How to reach me ...
 
